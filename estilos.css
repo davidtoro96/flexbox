@@ -1,0 +1,32 @@
+
+#todo {
+	display: flex;
+	flex-flow: wrap;
+border-radius: 30px;
+}
+
+    h1 {
+        background-color: #ffe6eb;
+		font-family: sans-serif;
+		
+    }
+
+    h2 {
+        background-color: #32dbc6;
+		font-family:Vegur;
+		
+    }
+
+    h3 {
+        font-family:Tahoma;
+		background-color:#fffde1;
+    }
+
+    .contenido {
+        padding: 10px;
+        margin: 10px;
+        background: #deecff;
+		border-radius: 25px;
+		font-family:Verdana;
+		text-align: justify;
+    }
