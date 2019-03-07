@@ -1,32 +1,23 @@
-
-#todo {
-	display: flex;
-	flex-flow: wrap;
-border-radius: 30px;
+section{
+display:flex;
+justify-content: space-around;
+align-content: space-around;
+flex-wrap: wrap;
+background: #cbf1f5;
+font-family: verdana;
 }
 
-    h1 {
-        background-color: #ffe6eb;
-		font-family: sans-serif;
-		
-    }
+article {
+		background: #f1eb9a;
+		width:30%;
+		margin-block-start: 1%;
+		margin-block-end: 1%;
+		border-radius: 4% 25%;
+}
 
-    h2 {
-        background-color: #32dbc6;
-		font-family:Vegur;
-		
-    }
+h1{
+	font-family: arial;
+	color: #ff5959;
+	background-color: #dfdfdf;
+}
 
-    h3 {
-        font-family:Tahoma;
-		background-color:#fffde1;
-    }
-
-    .contenido {
-        padding: 10px;
-        margin: 10px;
-        background: #deecff;
-		border-radius: 25px;
-		font-family:Verdana;
-		text-align: justify;
-    }
